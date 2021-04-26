@@ -1,0 +1,17 @@
+C:\Users\Julian\Documents\NetBeansProjects\MedicosEJB\MedicoEJB\src\main\java\co\edu\unicundi\medicoejb\service\MedicoService.java
+C:\Users\Julian\Documents\NetBeansProjects\MedicosEJB\MedicoEJB\src\main\java\co\edu\unicundi\medicoejb\repository\impl\ConsultaRepoImpl.java
+C:\Users\Julian\Documents\NetBeansProjects\MedicosEJB\MedicoEJB\src\main\java\co\edu\unicundi\medicoejb\exception\EmptyModelException.java
+C:\Users\Julian\Documents\NetBeansProjects\MedicosEJB\MedicoEJB\src\main\java\co\edu\unicundi\medicoejb\entity\Medico.java
+C:\Users\Julian\Documents\NetBeansProjects\MedicosEJB\MedicoEJB\src\main\java\co\edu\unicundi\medicoejb\repositorio\IMedicoRepo.java
+C:\Users\Julian\Documents\NetBeansProjects\MedicosEJB\MedicoEJB\src\main\java\co\edu\unicundi\medicoejb\service\ConsultaService.java
+C:\Users\Julian\Documents\NetBeansProjects\MedicosEJB\MedicoEJB\src\main\java\co\edu\unicundi\medicoejb\entity\DetalleConsulta.java
+C:\Users\Julian\Documents\NetBeansProjects\MedicosEJB\MedicoEJB\src\main\java\co\edu\unicundi\medicoejb\interfaz\IConsultaService.java
+C:\Users\Julian\Documents\NetBeansProjects\MedicosEJB\MedicoEJB\src\main\java\co\edu\unicundi\medicoejb\NewSessionBean.java
+C:\Users\Julian\Documents\NetBeansProjects\MedicosEJB\MedicoEJB\src\main\java\co\edu\unicundi\medicoejb\exception\IntegridadException.java
+C:\Users\Julian\Documents\NetBeansProjects\MedicosEJB\MedicoEJB\src\main\java\co\edu\unicundi\medicoejb\interfaz\IMedicoService.java
+C:\Users\Julian\Documents\NetBeansProjects\MedicosEJB\MedicoEJB\src\main\java\co\edu\unicundi\medicoejb\entity\Direccion.java
+C:\Users\Julian\Documents\NetBeansProjects\MedicosEJB\MedicoEJB\src\main\java\co\edu\unicundi\medicoejb\repositorio\IConsultaRepo.java
+C:\Users\Julian\Documents\NetBeansProjects\MedicosEJB\MedicoEJB\src\main\java\co\edu\unicundi\medicoejb\entity\Consulta.java
+C:\Users\Julian\Documents\NetBeansProjects\MedicosEJB\MedicoEJB\src\main\java\co\edu\unicundi\medicoejb\exception\ModelNotFoundException.java
+C:\Users\Julian\Documents\NetBeansProjects\MedicosEJB\MedicoEJB\src\main\java\co\edu\unicundi\medicoejb\repository\impl\GeneralFacade.java
+C:\Users\Julian\Documents\NetBeansProjects\MedicosEJB\MedicoEJB\src\main\java\co\edu\unicundi\medicoejb\repository\impl\MedicoRepoImpl.java
